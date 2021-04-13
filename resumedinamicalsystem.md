@@ -1,4 +1,4 @@
-# _* Dinamycal system and its Applications*_
+# _*Dinamycal system and its Applications*_
 <hr>
 Jadi sebetulnya kalau kita bicara dengan sistem yang kita bicarakan dalam teorinya sistem-sistem yang menggambarkan sesuatu yang dia dinamis yang dia berubah terhadap waktu tapi walaupun namanya dan ekosistem sistem dinamik yang dipakai pada prakteknya yang dimodelkan yang dianalisa tidak selalu fungsi dari waktu saja tapi juga bisa fungsi dari ruang yang kita analisa seakan-akan dia fungsinya.
 Bagi saya pribadi ada 1 buku yang tidak ada di Indonesia tapi cocok untuk mahasiswa S1 & S2 karena banyak gambarnya penjelasannya. Buku ini sangat luar biasa dan menurut saya harusnya ada  di Indonesia, Buku ini menjelaskan atau menggambarkan dan mendiskusikan tentang geometri dan di belakangnya ada gambar bentukannya.
